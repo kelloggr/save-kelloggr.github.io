@@ -1,0 +1,54 @@
+/*****************************/
+/* INSERT YOUR CSS CODE HERE */
+/*****************************/
+
+
+body {
+	color: white;
+}
+
+.navbar-default {
+	background-color: DarkSlateGray;
+}
+
+.jumbotron {
+	background-color: DarkSlateGray;
+
+
+}
+
+.section {
+
+	color: #21537F;
+}
+
+.description {
+		color: #21537F;
+}
+
+.jumbotron.resume {
+	color: #21537F;
+	font-size: 24px;
+
+}
+
+.jumbotron img {
+	border-radius: 100%;
+	border: 10px solid white;
+
+}
+
+.quote-section {
+
+	background-color: DarkSlateGray;
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+}
+
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
